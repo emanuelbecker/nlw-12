@@ -1,2 +1,2 @@
-# nlw-12
- rocketseat nlw-12
+# NLW-6
+ nlw rocketseat
