@@ -16,6 +16,13 @@ body {
   grid grid-template-rows: 100vh ;
 }
 
+nav {
+  padding: 64px;
+  grid-area:timeline;
+
+  overflow-y: scroll;
+}
+
 .memory {
   display: flex;
   flex-direction: column;
@@ -25,12 +32,7 @@ body {
   margin-bottom: 64px;
 }
  
-nav {
-  padding: 64px;
-  grid-area: timeline;
 
- overflow-y: scroll;
-}
 .memory small {
   color: #BEBEBF;
   font-size: 12px;
