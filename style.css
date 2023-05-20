@@ -13,7 +13,7 @@ body {
   display: grid;
   grid-template-areas: "profile timeline";
   grid-template-columns: 1fr 1fr;
-  grid grid-template-rows: 100vh ;
+  grid-template-rows: 100vh ;
 }
 
 nav {
